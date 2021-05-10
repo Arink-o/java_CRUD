@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<div id="main">
-			<h1>登録完了</h1>
+			<h1>登録完了あああああ</h1>
 			<p>登録完了しました</p>
 			<a href="mypage.jsp">マイページに戻る</a>
 		</div>
